@@ -4,7 +4,7 @@
 
     <groupId>org.whispersystems</groupId>
     <artifactId>curve25519</artifactId>
-    <version>0.5.0-gluon-4-SNAPSHOT</version>
+    <version>0.5.0-gluon</version>
     <packaging>pom</packaging>
 
     <name>curve25519</name>
